@@ -1,6 +1,9 @@
 // Declaring a variable
 
 var score;
+var playerName = "Alice";
+var level = 3;
+
 
 /* Further Adventures
  *
